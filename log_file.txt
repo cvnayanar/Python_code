@@ -1,0 +1,37 @@
+ServerLog ServerStartup 1 0000622e49ba14c8:0 2017-05-16 23:28:38 Siebel Enterprise Applications Server is starting up
+
+ServerLog LstnObjCreate 1 000062d549ba14c8:0 2017-05-16 23:28:38 Created port 49156 for Workflow Process Batch Manager
+
+ServerLog LstnObjCreate 1 000062d549ba14c8:0 2017-05-16 23:28:38 Created port 49157 for Workflow Recovery Manager
+
+ServerLog LstnObjCreate 1 000062d649ba14c8:0 2017-05-16 23:28:38 Created port 49158 for Workflow Process Manager
+
+ServerLog LstnObjCreate 1 000062d649ba14c8:0 2017-05-16 23:28:38 Created port 49159 for File System Manager
+
+ServerLog LstnObjCreate 1 000062d649ba14c8:0 2017-05-16 23:28:38 Created port 49160 for Server Request Processor
+
+ServerLog LstnObjCreate 1 000062d649ba14c8:0 2017-05-16 23:28:38 Created port 49161 for Siebel Administrator Notification Component
+
+...
+
+ServerLog ProcessExit 1 0000651d49ba14c8:0 2017-05-16 23:30:03 SmartAnswer 6612 TERMINATED Process 6612 was terminated
+
+ServerLog ComponentUpdate 2 000013f949bf1744:0 2017-05-16 23:30:07 CommOutboundMgr INITIALIZED Component has initialized.
+
+ServerLog ProcessCreate 1 000013f949bf1744:0 2017-05-16 23:30:15 Created server process (OS pid = 2660 ) for ServerMgr
+
+ServerLog ProcessCreate 1 000013f949bf1744:0 2017-05-17 00:45:51 Created server process (OS pid = 7624 ) for ServerMgr
+
+ServerLog ProcessCreate 1 000013f949bf1744:0 2017-05-17 03:43:39 Created server process (OS pid = 3236 ) for ServerMgr
+
+ServerLog ProcessExit 1 0000651d49ba14c8:0 2017-05-17 03:53:25 ServerMgr 2660 SUCCESS Process 2660 completed Successfully
+
+ServerLog ProcessExit 1 0000651d49ba14c8:0 2017-05-17 03:58:35 ServerMgr 3236 SUCCESS Process 3236 completed Successfully
+
+ServerLog ProcessCreate 1 000013f949bf1744:0 2017-05-17 03:58:48 Created server process (OS pid = 5816 ) for ServerMgr
+
+ServerLog ProcessExit 1 0000651d49ba14c8:0 2017-05-17 03:59:13 ServerMgr 5816 SUCCESS Process 5816 completed Successfully
+
+ServerLog ProcessCreate 1 000013f949bf1744:0 2017-05-17 03:59:29 Created server process (OS pid = 5976 ) for ServerMgr
+
+ServerLog ProcessExit 1 0000651d49ba14c8:0 2017-05-17 04:34:25 ServerMgr 7624 SUCCESS Process 7624 completed Successfully
