@@ -10,6 +10,6 @@ class circle():
     def getCircumference(self):
         circ = 2 * 3.14 * self.radius
         print(circ)
-rad = circle(50)
+rad = circle(50)  # input radius =50
 circle.get_Area(rad)
 circle.getCircumference(rad)
